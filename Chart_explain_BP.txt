@@ -1,0 +1,702 @@
+1. Clustered Column Chart
+Purpose: Compare values across categories.
+Fields:
+Axis → Product_Category
+
+
+Values → Sales_Amount
+
+
+Extra Visualization Concepts:
+Add Legend → Region → Shows each region’s contribution within a category.
+
+
+Tooltip → Profit, Quantity → Gives more context on hover.
+
+
+Add Data Labels → Displays exact sales value above each bar.
+
+
+Use Case: Compare which product category performs best in each region.
+
+2. Stacked Column Chart
+Purpose: Show total + subcategory contribution.
+Fields:
+Axis → Region
+
+
+Legend → Year
+
+
+Values → Sales_Amount
+
+
+Extra Visualization Concepts:
+Add Tooltip → Profit → See profit contribution when hovering.
+
+
+Data Labels → Display yearly total for each region.
+
+
+Add Slicer → Year → Filter by a specific year to analyze regional changes.
+
+
+Use Case: Visualize sales growth by region and year.
+
+3. 100% Stacked Column Chart
+Purpose: Compare % contribution of each category.
+Fields:
+Axis → Region
+
+
+Legend → Product_Category
+
+
+Values → Sales_Amount
+
+
+Extra Visualization Concepts:
+Data Labels → Show Percentages.
+
+
+Add Tooltip → Profit + Discount → See profit and discount share.
+
+
+Sort by Total Sales_Amount.
+
+
+Use Case: Compare what % each product category contributes in every region.
+
+4. Clustered Bar Chart
+Purpose: Compare horizontal values.
+Fields:
+Y-Axis → Region
+
+
+X-Axis → Profit
+
+
+Extra Visualization Concepts:
+Add Legend → Product_Category → Compare profit of each category per region.
+
+
+Add Data Labels → Profit values.
+
+
+Conditional Formatting → Highlight bars where Profit < 50,000.
+
+
+Use Case: Identify regions with the highest or lowest profit.
+
+5. Stacked Bar Chart
+Purpose: Show sales by rep and category.
+Fields:
+Y-Axis → Sales_Rep
+
+
+X-Axis → Sales_Amount
+
+
+Legend → Product_Category
+
+
+Extra Visualization Concepts:
+Add Tooltip → Profit, Quantity.
+
+
+Add Data Labels → Total Sales per Rep.
+
+
+Use Sort by → Sales_Amount (Descending).
+
+
+Use Case: Compare how each salesperson performs across different categories.
+
+6. Line Chart
+Purpose: Display sales trend over time.
+Fields:
+X-Axis → Order_Date
+
+
+Values → Sales_Amount
+
+
+Extra Visualization Concepts:
+Add Legend → Region → Show separate sales trends by region.
+
+
+Add Tooltip → Profit.
+
+
+Analytics → Add Trend Line.
+
+
+Use Case: Observe monthly or yearly sales trends by region.
+
+7. Area Chart
+Purpose: Show cumulative trend visually.
+Fields:
+X-Axis → Month
+
+
+Values → Profit
+
+
+Legend → Product_Category
+
+
+Extra Visualization Concepts:
+Gradient Fill → By Profit.
+
+
+Add Data Labels → Show values on peaks.
+
+
+Tooltip → Sales_Amount, Quantity.
+
+
+Use Case: Compare how different product categories contribute to profit over time.
+
+8. Combo Chart (Line & Column)
+Purpose: Compare two related measures.
+Fields:
+Column Values → Sales_Amount
+
+
+Line Values → Profit
+
+
+Axis → Month
+
+
+Extra Visualization Concepts:
+Add Legend → Region.
+
+
+Add Secondary Y-Axis for Profit.
+
+
+Analytics → Add Target Line (Profit Goal).
+
+
+Use Case: Compare monthly sales vs profit performance.
+
+
+13. Ribbon Chart
+
+Purpose:
+Compare rankings or changes in category performance over time (e.g., which category was top-performing in each month).
+
+Fields:
+
+Axis → Month
+
+Legend → Product_Category
+
+Values → Sales_Amount
+
+Extra Visualization Concepts:
+
+Sort by: Month (Ascending)
+
+Data Labels → Show Sales Value or Rank.
+
+Highlight Ribbons: Change ribbon color based on Profit (Conditional Formatting).
+
+Tooltip Fields → Profit, Quantity (for deeper insight).
+
+Use Case Example:
+Show how the ranking of product categories (e.g., “Mobiles,” “Laptops,” “Accessories”) changes from January to December.
+
+14. Waterfall Chart
+
+Purpose:
+Show how individual values (positive and negative) contribute to a total — perfect for profit or expense analysis.
+
+Fields:
+
+Category → Product_Category (or Region)
+
+Y-Axis (Values) → Profit
+
+Breakdown → Discount or Sales_Rep (optional)
+
+Extra Visualization Concepts:
+
+Add Total: Turn on “Show total” option.
+
+Data Labels → Display Profit increase/decrease for each category.
+
+Color Settings:
+
+Increase → Green
+
+Decrease → Red
+
+Total → Blue
+
+Tooltip Fields → Sales_Amount, Quantity for detail.
+
+Use Case Example:
+Analyze how each region contributes to the overall company profit:
+
+15.Funnel Chart
+Purpose: Show process stages.
+Fields:
+Group → Region
+
+
+Values → Sales_Amount
+
+
+Extra Visualization Concepts:
+Add Tooltip → Profit, Quantity.
+
+
+Sort Stages by Value.
+
+
+Change Color → Gradient by Sales Value.
+
+
+Use Case: Show sales funnel by region (lead-to-sale conversion).
+
+16.Scatter Chart
+
+Purpose: Show relationship between two measures.
+Fields:
+
+X-Axis → Sales_Amount
+
+Y-Axis → Profit
+
+Details → Product_Name
+
+Legend → Region
+Extra Visualization Concepts:
+
+Add Size → Quantity (bubble size).
+
+Add Trend Line → Analyze correlation between Sales and Profit.
+Use Case: Identify which products generate high sales but low profit.
+
+ 17. Pie Chart
+Purpose: Show % share of total.
+Fields:
+Legend → Region
+
+
+Values → Sales_Amount
+
+
+Extra Visualization Concepts:
+Detail Labels → Category + Percentage.
+
+
+Tooltip → Profit + Discount.
+
+
+Apply Color Palette by Region.
+
+
+ Use Case: See which region contributes most to total sales.
+
+18. Donut Chart
+Purpose: Similar to Pie but shows KPI in center.
+Fields:
+Legend → Product_Category
+
+
+Values → Profit
+
+
+Extra Visualization Concepts:
+Add Center Label → “Total Profit”.
+
+
+Tooltip → Sales_Amount, Discount.
+
+
+Apply Theme Colors → Product-wise.
+
+
+Use Case: Visualize profit distribution among categories.
+
+19.Tree Map
+
+Purpose: Show hierarchical data using nested rectangles.
+Fields:
+
+Group → Product_Category
+
+Details → Product_Name
+
+Values → Sales_Amount
+Extra Visualization Concepts:
+
+Add Color Saturation → Profit.
+
+Add Tooltips → Sales_Rep, Region.
+Use Case: Identify which category or product contributes most to total sales.
+
+
+20. Map
+Purpose: Plot data geographically.
+Fields:
+Location → Country
+
+
+Size → Sales_Amount
+
+
+Tooltip → Profit
+
+
+Extra Visualization Concepts:
+Add Legend → Region.
+
+
+Use Bubble Size to Indicate Sales Volume.
+
+
+Enable Map Theme → “Dark”.
+
+
+Use Case: Show worldwide sales coverage.
+
+13. Filled Map
+Purpose: Region-based profit shading.
+Fields:
+Location → Region
+
+
+Values → Profit
+
+
+Extra Visualization Concepts:
+Color Saturation → Based on Profit.
+
+
+Tooltip → Sales_Amount, Discount.
+
+
+Apply Data Labels → Profit by Region.
+
+
+Use Case: Visualize profit density region-wise.
+
+14. Gauge Chart
+Purpose: Display performance vs target.
+Fields:
+Value → Profit
+
+
+Target → 1500000
+
+
+Extra Visualization Concepts:
+Add Min → 0, Max → 2,000,000.
+
+
+Dynamic Target → Based on Average Profit.
+
+
+Color Zone → Red/Yellow/Green for status.
+
+
+Use Case: Track progress toward profit goal.
+
+15. Card Visual
+Purpose: Show one key metric.
+Fields:
+Value → Total Sales_Amount
+
+
+Extra Visualization Concepts:
+Add Background Color = Category Theme.
+
+
+Add Border/Shadow Effect.
+
+
+Conditional Format → Color if value < target.
+
+
+Use Case: Display total company sales clearly.
+
+16. Multi-Row Card
+Purpose: Display multiple KPIs.
+Fields:
+Fields → Sales_Amount, Profit, Discount
+
+
+Extra Visualization Concepts:
+Rename Titles → “Total Sales”, “Total Profit”, “Avg Discount”.
+
+
+Align KPIs horizontally.
+
+
+Add Icons for better clarity.
+
+
+Use Case: Display multiple summary values on dashboard.
+
+17 . KPI Visual
+
+Drag Fields:
+
+Indicator → Sales_Amount (actual performance)
+
+Trend Axis → Month (to show monthly change)
+
+Target Goals → Sales_Target (target value)
+
+Format KPI:
+
+Set color for values:
+
+Green → On target or above target
+
+Red → Below target
+
+Enable Data labels and Trend line
+
+18 . Slicer
+A slicer allows you to choose specific values (like a region, category, or date) to filter the data shown in other visuals on the report.
+
+19. Table
+Purpose: Display detailed records.
+Fields:
+Order_ID, Customer_Name, Product_Name, Sales_Amount, Profit
+
+
+Extra Visualization Concepts:
+Conditional Formatting → Profit color gradient.
+
+
+Add Icons → Payment_Mode.
+
+
+Enable Word Wrap & Column Totals.
+
+
+Use Case: Show detailed transaction-level data.
+
+18. Matrix
+Purpose: Pivot-style report.
+Fields:
+Rows → Region
+
+
+Columns → Product_Category
+
+
+Values → Sales_Amount
+
+
+Extra Visualization Concepts:
+Enable Drill Down (Region → Product_Name).
+
+
+Add Conditional Formatting → Heatmap style.
+
+
+Show Totals for Rows & Columns.
+
+19.Key Influencer
+
+Use Case: Cross-tab comparison of sales per region and category.
+
+Go to Visualizations Pane → Choose “Key Influencer” visual (the one with a magnifying glass 🔍).
+
+Drag the following fields:
+
+Analyze → Profit (this is the metric we want to understand)
+
+Explain by → Add possible influencing factors like
+
+Region
+
+Product_Category
+
+Discount
+
+Sales_Rep
+
+Quantity
+
+Power BI automatically runs AI analysis and displays the top factors that affect profit.
+
+20 .Q&A visual
+Total profit by Product_Category
+Show sales and profit by region
+Top 5 sales_rep by sales
+Show total profit this month
+Trend of sales in 2024 by month
+
+
+21 . SMART NARRATIVE (NARRATIVE)
+
+The Smart Narrative visual automatically generates text-based summaries and insights from your visuals or report page.
+
+22 . GOALS (SCORECARDS)
+Goals in Power BI (found under the Power BI Service, not Desktop) allow you to track key metrics, targets, and progress in a structured, visual way — like a scorecard.
+
+23.The Card (new) 
+visual is an upgraded version of the original Card visual.
+It’s used to display key summary values or KPIs (like Total Sales, Total Profit, Average Quantity, etc.) — but with more customization options, conditional formatting, and multiple fields in one card.
+
+You can show Sales, Profit, Quantity, and Average Sales in one card visual.
+
+Steps:
+
+Select Card (new).
+
+Add multiple fields:
+
+Sales
+
+Profit
+
+Quantity
+
+Average Sales
+
+Use the Format pane → Layout → change Grid layout (2x2 or 1x4).
+20 . Decomposition Tree
+
+Go to Visualizations pane → Click “Decomposition Tree” icon 
+
+Add these fields:
+
+Analyze → Profit (the number you want to break down)
+
+Explain by →
+
+Region
+
+Product_Category
+
+Sales_Rep
+
+Month
+
+Once the visual appears, click “+” sign next to the value to expand and see deeper details.
+
+
+19. Scatter Chart
+Purpose: Relationship between variables.
+Fields:
+X-Axis → Sales_Amount
+
+
+Y-Axis → Profit
+
+
+Size → Quantity
+
+
+Legend → Region
+
+
+Extra Visualization Concepts:
+Add Trend Line → Profit vs Sales.
+
+
+Enable Play Axis → Year (Animated).
+
+
+Tooltip → Show Product_Category.
+
+
+Use Case: Analyze the correlation between sales and profit.
+
+20. Tree Map
+Purpose: Show hierarchical proportion.
+Fields:
+Group → Product_Category
+
+
+Details → Product_Name
+
+
+Values → Sales_Amount
+
+
+Extra Visualization Concepts:
+Color by → Profit.
+
+
+Tooltip → Quantity.
+
+
+Drill Down → Category → Product_Name.
+
+
+Use Case: Identify top-performing products in each category.
+
+21. Waterfall Chart
+Purpose: Show incremental impact.
+Fields:
+Category → Product_Category
+
+
+Values → Profit
+
+
+Extra Visualization Concepts:
+Add Subtotals.
+
+
+Change Colors → Green (Increase), Red (Decrease).
+
+
+Tooltip → Sales_Amount.
+
+
+Use Case: Show how each category contributes to total profit.
+
+22. KPI Visual
+Purpose: Display goal vs result.
+Fields:
+Indicator → Sales_Amount
+
+
+Target → 1,500,000
+
+
+Trend Axis → Month
+
+
+Extra Visualization Concepts:
+Conditional Color → Red (below), Green (above).
+
+
+Add Trend Line for Progress.
+
+
+Show Status Arrow.
+
+
+Use Case: Track monthly performance vs target.
+
+23. Decomposition Tree
+Purpose: Drill-down cause analysis.
+Fields:
+Analyze → Profit
+
+
+Explain By → Region, Product_Category, Sales_Rep
+
+
+Extra Visualization Concepts:
+Add AI Split → “High Value”.
+
+
+Add Tooltip → Sales_Amount.
+
+
+Expand Step-by-Step Analysis.
+
+

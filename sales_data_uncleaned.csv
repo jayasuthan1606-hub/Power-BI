@@ -1,0 +1,206 @@
+S.no,Order_ID,Order_Date,Month,Year,Customer_Name,Product_Category,Product_Name,Region,Country,Sales_Amount,Quantity,Profit,Discount,Payment_Mode,Sales_Rep
+1.0,ORD0143,2024-11-22 00:00:00,,2024,,Accessories,Samsung Tab S8,West,,,,,,Card,
+2.0,ORD0104,2025-01-28 00:00:00,January,2025,Customer_1070,MOBILE,Headphones,South,usa,,5.0,4980.0,,Card,Ravi
+3.0,ORD0145,2024/15/01,January,2025,Customer_1157,MOBILE,HP Pavilion,North,UK,25543.0,6.0,,,Online,Karan
+4.0,ORD0129,2025-01-24 00:00:00,January,2025,Customer_1031,MOBILE,HP Pavilion,West,usa,,9.0,2096.0,15.0,Cash,Ravi
+5.0,ORD0111,2024-09-28 00:00:00,September,2024,Customer_1101,MOBILE,Samsung Tab S8,South,UK,,,16061.0,5.0,Card,Sneha
+6.0,ORD0083,2024/15/01,March,2024,Customer_1106,Mobile,HP Pavilion,North,USA,,,,5.0,,Ravi
+7.0,ORD0147,2024-02-29 00:00:00,February,2024,Customer_1148,Tablet,Realme 11 Pro,,,35400.0,,,10.0,Online,Ravi
+8.0,ORD0049,2024-08-28 00:00:00,August,2024,Customer_1197, mobile ,iPhone 14, east ,USA,,,14671.0,,Cash,Ravi
+9.0,ORD0008,2024-07-21 00:00:00,July,2024,Customer_1037,Accessories,Samsung Tab S8,,India,,3.0,1107.0,5.0,UPI,Meena
+10.0,ORD0137,2024-12-30 00:00:00,December,2024,Customer_1049,Tablet,HP Pavilion,East,Canada,83634.0,,,5.0,Cash,Ravi
+11.0,ORD0019,2024-03-21 00:00:00,,,Customer_1062,Laptop,Samsung Tab S8,North,UK,14183.0,,,,Cash,Sneha
+12.0,ORD0056,2024-01-20 00:00:00,January,2024,Customer_1183,MOBILE,Keyboard,East,USA,52552.0,,,,upi,Ravi
+13.0,ORD0020,2024-07-09 00:00:00,July,2024,Customer_1013,Tablet,Samsung Tab S8,North,India,,3.0,,20.0,,Ravi
+14.0,ORD0065,2024-11-04 00:00:00,November,,Customer_1178,MOBILE,Keyboard,East,UK,74228.0,,,5.0,UPI,Ravi
+15.0,ORD0104,2024-08-27 00:00:00,August,2024,Customer_1057,Accessories,HP Pavilion,West,USA,68532.0,,,5.0,upi,Sneha
+16.0,ORD0146,2024-11-13 00:00:00,November,2024,Customer_1009,Laptop,iPhone 14,East,,75247.0,6.0,,5.0,upi,Meena
+17.0,ORD0055,2024-12-02 00:00:00,,2024,Customer_1197,Accessories,HP Pavilion,East,India,,7.0,,20.0,upi,Ravi
+18.0,ORD0139,2024-10-07 00:00:00,October,2024,Customer_1089,MOBILE,HP Pavilion,East,USA,19384.0,6.0,14363.0,5.0,Online,Meena
+19.0,ORD0131,2024-07-25 00:00:00,July,2024,Customer_1126,Laptop,iPhone 14,North,USA,,,5331.0,20.0,Card,Ravi
+20.0,ORD0084,2024-03-27 00:00:00,March,2024,Customer_1046,Tablet,Realme 11 Pro,North,,18217.0,,326.0,5.0,Card,Sneha
+,ORD0093,2024-12-16 00:00:00,December,2024,Customer_1159,Mobile,Headphones,,usa,,2.0,,15.0,Cash,Karan
+22.0,ORD0035,2024/15/01,September,2024,Customer_1105,Accessories,Keyboard,,USA,14122.0,,18458.0,10.0,Online, Arun 
+23.0,ORD0065,2024-12-28 00:00:00,December,2024,,Tablet,Keyboard,East,India,,6.0,15249.0,5.0,Online,Ravi
+24.0,ORD0043,2025-01-01 00:00:00,January,2025,Customer_1096,Accessories,Samsung Tab S8,East,Canada,80941.0,6.0,11265.0,15.0,, Arun 
+25.0,ORD0054,2024-04-27 00:00:00,April,2024,Customer_1117,MOBILE,HP Pavilion,,,,4.0,,20.0,UPI,Ravi
+26.0,ORD0057,2024-06-01 00:00:00,June,,Customer_1057,Tablet,Samsung Tab S8,North,usa,,,,15.0,,Karan
+27.0,ORD0039,2024-05-20 00:00:00,,2024,Customer_1080,Tablet,HP Pavilion,East,India,87807.0,,2102.0,10.0,UPI,
+28.0,ORD0088,2024-05-19 00:00:00,May,2024,Customer_1011,Accessories,Asus Vivobook,,UK,65690.0,6.0,,,UPI,Ravi
+29.0,ORD0010,2025-01-10 00:00:00,January,2025,Customer_1043,Tablet,Realme 11 Pro, east ,UK,,7.0,-212.0,5.0,UPI,Sneha
+30.0,ORD0118,2025-01-11 00:00:00,January,2025,Customer_1153,Laptop,Asus Vivobook,,,91192.0,,,10.0,upi,Sneha
+31.0,ORD0039,2024-03-02 00:00:00,March,2024,Customer_1119,Tablet,Headphones,North,India,,8.0,,,UPI,Ravi
+32.0,ORD0084,2024/15/01,February,2024,Customer_1178,Mobile,Realme 11 Pro,South,USA,30383.0,7.0,,10.0,Online,Sneha
+33.0,ORD0062,2024-07-29 00:00:00,July,2024,Customer_1029,Accessories,HP Pavilion,South,Canada,,,,10.0,upi,Sneha
+34.0,ORD0063,2024-02-18 00:00:00,February,2024,Customer_1004,Laptop,Realme 11 Pro, east ,Canada,,,,10.0,,Meena
+35.0,ORD0058,2024/15/01,June,2024,Customer_1125, mobile ,Realme 11 Pro,South,Canada,59990.0,6.0,,10.0,UPI,Meena
+,ORD0062,2024-03-30 00:00:00,March,2024,Customer_1200,Tablet,iPhone 14,South,UK,,9.0,10379.0,,upi,Sneha
+37.0,ORD0096,2024-07-06 00:00:00,July,,,Tablet,Keyboard,,usa,,,3226.0,5.0,,Meena
+38.0,ORD0103,2024-03-31 00:00:00,March,2024,Customer_1063,Accessories,Keyboard,,India,,8.0,3031.0,15.0,Online,
+39.0,ORD0046,2025-01-28 00:00:00,January,2025,Customer_1029,MOBILE,iPhone 14,South,Canada,,,,10.0,UPI,Ravi
+40.0,ORD0005,2024-09-15 00:00:00,September,2024,Customer_1019,Accessories,iPhone 14,,UK,65469.0,,17637.0,5.0,UPI, Arun 
+41.0,ORD0071,2024-09-05 00:00:00,September,2024,Customer_1184,Accessories,Asus Vivobook,North,,58265.0,,,15.0,,Karan
+42.0,ORD0013,2024-09-21 00:00:00,September,2024,Customer_1186,Mobile,Realme 11 Pro,,Canada,62875.0,4.0,,10.0,,Karan
+43.0,ORD0145,2024-04-16 00:00:00,April,2024,Customer_1096,Accessories,iPhone 14,East,India,66432.0,,10736.0,10.0,Online,Ravi
+44.0,ORD0075,2024-06-20 00:00:00,June,2024,Customer_1192,Mobile,iPhone 14, east ,India,,4.0,11857.0,20.0,UPI,Sneha
+45.0,ORD0010,2024-01-17 00:00:00,January,2024,Customer_1009,Tablet,Headphones, east ,usa,,,12322.0,15.0,Card,Sneha
+46.0,ORD0059,2024-02-29 00:00:00,February,,Customer_1029, mobile ,Asus Vivobook, east ,UK,,,,15.0,Cash,Meena
+,ORD0047,2024-09-04 00:00:00,September,2024,Customer_1109, mobile ,Asus Vivobook,North,UK,42361.0,8.0,17809.0,5.0,,Meena
+48.0,ORD0078,2024-01-26 00:00:00,January,2024,Customer_1180,Laptop,Realme 11 Pro,,,,9.0,-423.0,20.0,Cash,Meena
+,ORD0060,2024-04-13 00:00:00,April,2024,Customer_1073,Mobile,Keyboard,,USA,,,,10.0,Online,Ravi
+50.0,ORD0091,2024-12-11 00:00:00,December,2024,Customer_1193, mobile ,Keyboard,West,usa,74247.0,,,,Cash,Ravi
+51.0,ORD0023,2024-03-18 00:00:00,March,2024,Customer_1171, mobile ,iPhone 14,West,UK,87912.0,,14524.0,15.0,upi,Ravi
+52.0,ORD0093,2025-01-18 00:00:00,January,,Customer_1197, mobile ,HP Pavilion,East,India,95429.0,4.0,,5.0,Card, Arun 
+53.0,ORD0106,2024-05-22 00:00:00,May,2024,Customer_1166, mobile ,iPhone 14,North,India,18076.0,10.0,,10.0,Card,Ravi
+54.0,ORD0034,2024-07-05 00:00:00,July,2024,Customer_1067, mobile ,Realme 11 Pro,,UK,12752.0,,,20.0,Online,Meena
+55.0,ORD0051,2024-01-01 00:00:00,,2024,Customer_1126,Laptop,HP Pavilion,East,Canada,,,1794.0,20.0,upi, Arun 
+56.0,ORD0047,2024-05-07 00:00:00,May,2024,Customer_1118,Tablet,iPhone 14,West,India,84112.0,,10610.0,20.0,Cash,Karan
+57.0,ORD0026,2024-10-22 00:00:00,October,2024,Customer_1144, mobile ,Asus Vivobook, east ,Canada,58276.0,,5685.0,15.0,Online,Ravi
+,ORD0033,2024-09-17 00:00:00,September,2024,Customer_1187,Mobile,Realme 11 Pro,North,USA,36858.0,1.0,4813.0,15.0,Cash,
+59.0,ORD0071,2024-10-08 00:00:00,,,Customer_1052,MOBILE,Asus Vivobook,West,UK,13459.0,,,10.0,upi,Meena
+60.0,ORD0012,2024-09-09 00:00:00,September,2024,Customer_1183,Accessories,Realme 11 Pro, east ,India,49709.0,,16456.0,,Card,Sneha
+61.0,ORD0128,2024-06-16 00:00:00,June,2024,Customer_1059,Laptop,Headphones,North,UK,,3.0,,,Online, Arun 
+62.0,ORD0141,2024-12-02 00:00:00,December,2024,Customer_1162,MOBILE,HP Pavilion,East,USA,52618.0,7.0,6295.0,20.0,Cash,
+63.0,ORD0091,2024-12-11 00:00:00,December,2024,Customer_1173,Laptop,Samsung Tab S8, east ,,,10.0,,10.0,UPI,Karan
+64.0,ORD0021,2025-01-20 00:00:00,January,2025,Customer_1055,Accessories,Realme 11 Pro,South,usa,57462.0,,,5.0,Cash,Ravi
+65.0,ORD0139,2024-07-07 00:00:00,July,2024,Customer_1098,MOBILE,Samsung Tab S8,South,USA,52462.0,5.0,7028.0,15.0,,Karan
+66.0,ORD0110,2024-09-24 00:00:00,September,2024,Customer_1018,Mobile,Headphones,North,,77562.0,,15349.0,15.0,upi, Arun 
+67.0,ORD0143,2024-03-26 00:00:00,March,2024,Customer_1183,Mobile,iPhone 14,East,USA,,2.0,,5.0,upi, Arun 
+68.0,ORD0136,2025-02-01 00:00:00,February,2025,Customer_1043,Accessories,HP Pavilion, east ,India,64036.0,,13317.0,5.0,Cash,Meena
+69.0,ORD0091,2024-11-25 00:00:00,November,2024,Customer_1140,MOBILE,Asus Vivobook,East,,53361.0,,,20.0,Online,Ravi
+70.0,ORD0055,2024-02-12 00:00:00,February,2024,Customer_1016,MOBILE,Realme 11 Pro,West,usa,11091.0,,,10.0,UPI,Ravi
+71.0,ORD0072,2024-03-03 00:00:00,March,2024,Customer_1126,Tablet,Asus Vivobook,East,India,,,3739.0,,Card, Arun 
+72.0,ORD0066,2024-02-25 00:00:00,February,2024,Customer_1132, mobile ,Realme 11 Pro,,India,,,,5.0,upi,
+73.0,ORD0144,2024-04-27 00:00:00,April,2024,Customer_1175,Laptop,Samsung Tab S8,West,Canada,95998.0,,10186.0,,,Ravi
+74.0,ORD0085,2024-12-13 00:00:00,December,2024,Customer_1152,Laptop,Headphones,North,Canada,,,,10.0,Cash,Ravi
+75.0,ORD0058,2025-02-03 00:00:00,February,2025,Customer_1023,Laptop,HP Pavilion,,Canada,,,,5.0,,Karan
+76.0,ORD0145,2024-08-01 00:00:00,August,2024,Customer_1013,Laptop,Realme 11 Pro,East,UK,18746.0,,,15.0,Cash,
+77.0,ORD0134,2024-06-09 00:00:00,June,2024,Customer_1104,Tablet,Realme 11 Pro,South,UK,84765.0,6.0,,,,
+78.0,ORD0023,2024-05-19 00:00:00,May,2024,Customer_1125,Tablet,Headphones,,Canada,18738.0,,,5.0,Cash, Arun 
+79.0,ORD0141,2024-02-07 00:00:00,February,2024,Customer_1037, mobile ,,South,India,36533.0,,-4628.0,20.0,Card,Ravi
+80.0,ORD0072,2024-01-14 00:00:00,January,2024,,MOBILE,, east ,USA,,,,20.0,Card, Arun 
+81.0,ORD0004,2024-02-09 00:00:00,February,2024,Customer_1026,Accessories,Headphones,West,USA,,10.0,,,Cash,Karan
+82.0,ORD0116,2024-07-17 00:00:00,July,2024,Customer_1102, mobile ,Asus Vivobook,West,Canada,16105.0,9.0,,,,Meena
+83.0,ORD0055,2024-03-30 00:00:00,,2024,Customer_1154,Tablet,iPhone 14,East,UK,96392.0,,766.0,20.0,Cash,Meena
+,ORD0051,2025-01-06 00:00:00,January,,Customer_1103, mobile ,iPhone 14,East,UK,,4.0,,10.0,upi,
+85.0,ORD0033,2024-04-03 00:00:00,April,2024,Customer_1051,Tablet,Samsung Tab S8,North,usa,,7.0,,10.0,UPI,Meena
+86.0,ORD0070,2024-06-18 00:00:00,June,2024,Customer_1186,MOBILE,,,Canada,47345.0,,685.0,10.0,Online,Meena
+87.0,ORD0039,2024-06-27 00:00:00,,,Customer_1010,Accessories,iPhone 14,South,usa,,7.0,520.0,20.0,upi,Karan
+88.0,ORD0009,2024-01-05 00:00:00,January,2024,Customer_1052,Mobile,Headphones,South,USA,13991.0,,,5.0,UPI,
+89.0,ORD0073,2024-06-01 00:00:00,June,2024,,MOBILE,Samsung Tab S8,West,USA,96996.0,9.0,,15.0,Card,Ravi
+90.0,ORD0094,2024-03-08 00:00:00,March,2024,Customer_1097,Laptop,Samsung Tab S8, east ,,,,,10.0,Online,Meena
+91.0,ORD0033,2024-09-06 00:00:00,September,2024,Customer_1197,Laptop,Realme 11 Pro,West,UK,,9.0,19474.0,,Card,Ravi
+92.0,ORD0034,2024-07-02 00:00:00,July,2024,Customer_1198,Tablet,Samsung Tab S8,South,usa,95648.0,,3686.0,20.0,, Arun 
+93.0,ORD0132,2024-02-02 00:00:00,February,2024,Customer_1124,Laptop,Asus Vivobook, east ,Canada,,5.0,,10.0,,
+94.0,ORD0149,2025-02-03 00:00:00,February,2025,Customer_1145,Tablet,Keyboard,East,,63396.0,7.0,-3053.0,15.0,Card, Arun 
+95.0,ORD0095,2024-06-18 00:00:00,June,2024,Customer_1112,Mobile,,South,Canada,,,2570.0,,Cash,
+96.0,ORD0001,2024-01-18 00:00:00,,2024,Customer_1105, mobile ,iPhone 14,West,Canada,,9.0,-393.0,20.0,upi,Karan
+97.0,ORD0138,2024-02-22 00:00:00,February,2024,Customer_1154,Tablet,Headphones,,India,,1.0,9314.0,5.0,Cash,Sneha
+98.0,ORD0064,2024-09-03 00:00:00,September,2024,Customer_1100,Accessories,HP Pavilion,,usa,24779.0,,17321.0,,Card,Ravi
+99.0,ORD0148,2024-01-13 00:00:00,January,2024,Customer_1168,Accessories,Asus Vivobook,North,,,,-1563.0,5.0,Online,Meena
+100.0,ORD0119,2024/15/01,January,2024,Customer_1048,Mobile,Samsung Tab S8,South,Canada,,,,10.0,Online,
+101.0,ORD0087,2024-12-24 00:00:00,December,2024,Customer_1065,Laptop,iPhone 14,West,USA,30115.0,,,20.0,upi,Meena
+102.0,ORD0125,2024-12-01 00:00:00,,2024,Customer_1151,Accessories,Asus Vivobook,West,USA,,9.0,,10.0,Online, Arun 
+103.0,ORD0057,2024-03-10 00:00:00,March,2024,Customer_1164,Laptop,HP Pavilion,West,UK,30314.0,4.0,15863.0,15.0,Online,Ravi
+104.0,ORD0019,2024-03-30 00:00:00,March,2024,Customer_1193,Laptop,Realme 11 Pro,South,usa,,3.0,10001.0,5.0,upi,Sneha
+105.0,ORD0101,2024-08-16 00:00:00,,2024,,Accessories,Asus Vivobook, east ,USA,65964.0,6.0,6346.0,5.0,upi,Sneha
+106.0,ORD0007,2024-04-19 00:00:00,April,2024,Customer_1003, mobile ,,South,UK,,9.0,,10.0,Online,
+107.0,ORD0121,2024-07-04 00:00:00,July,2024,Customer_1163,MOBILE,,South,,,6.0,,10.0,,Sneha
+108.0,ORD0150,2024-06-23 00:00:00,June,2024,Customer_1023,MOBILE,HP Pavilion, east ,Canada,,,9940.0,5.0,Cash,Sneha
+109.0,ORD0135,2024-11-25 00:00:00,November,2024,Customer_1154, mobile ,Asus Vivobook,East,USA,,,,20.0,,Ravi
+110.0,ORD0128,2024/15/01,June,2024,Customer_1180,Laptop,Keyboard,,,71325.0,10.0,11876.0,20.0,Cash,Sneha
+111.0,ORD0034,2025-01-27 00:00:00,January,2025,Customer_1155, mobile ,iPhone 14,North,Canada,15532.0,,,15.0,Card,Ravi
+112.0,ORD0098,2024-08-19 00:00:00,August,2024,Customer_1001,Accessories,HP Pavilion,South,usa,,,14198.0,,upi, Arun 
+113.0,ORD0071,2025-01-15 00:00:00,January,2025,Customer_1193,Laptop,Realme 11 Pro,North,Canada,45712.0,,1267.0,,Card,
+114.0,ORD0055,2024-07-04 00:00:00,July,2024,Customer_1096,Tablet,,North,Canada,15497.0,2.0,11483.0,5.0,Card,Karan
+115.0,ORD0046,2024-03-16 00:00:00,March,2024,Customer_1154,MOBILE,Keyboard, east ,USA,,4.0,2897.0,,UPI,Sneha
+116.0,ORD0104,2024-03-01 00:00:00,March,2024,Customer_1174,MOBILE,Keyboard,East,UK,80241.0,4.0,-1675.0,20.0,,Karan
+,ORD0064,2024-06-12 00:00:00,June,2024,,Tablet,Realme 11 Pro, east ,USA,85293.0,,658.0,20.0,UPI,Ravi
+118.0,ORD0093,2025-01-06 00:00:00,January,2025,Customer_1190,Laptop,HP Pavilion,North,,,2.0,4371.0,20.0,Online,Karan
+119.0,ORD0010,2024-03-02 00:00:00,March,2024,Customer_1044,Tablet,HP Pavilion,,usa,,3.0,,15.0,, Arun 
+120.0,ORD0052,2024-09-03 00:00:00,September,2024,Customer_1140,Mobile,Asus Vivobook,West,usa,,,,15.0,,
+121.0,ORD0131,2024-10-22 00:00:00,October,2024,Customer_1137,Mobile,HP Pavilion,South,usa,,,5607.0,20.0,upi, Arun 
+122.0,ORD0094,2024-12-07 00:00:00,December,2024,Customer_1129, mobile ,HP Pavilion,South,USA,94927.0,9.0,17862.0,20.0,UPI,Karan
+123.0,ORD0114,2024-03-17 00:00:00,March,,Customer_1183,Mobile,Realme 11 Pro,East,usa,59786.0,2.0,14123.0,15.0,UPI,
+124.0,ORD0136,2024-09-15 00:00:00,September,2024,Customer_1187,Laptop,Asus Vivobook,East,USA,,9.0,18653.0,10.0,Online,Sneha
+125.0,ORD0057,2024-03-03 00:00:00,March,2024,Customer_1042,Tablet,Asus Vivobook, east ,,,10.0,,10.0,upi,Ravi
+126.0,ORD0097,2024-12-08 00:00:00,December,2024,Customer_1133,Accessories,iPhone 14,South,India,83449.0,,2758.0,,Online,
+127.0,ORD0024,2024-05-25 00:00:00,May,2024,Customer_1134,Tablet,iPhone 14,South,Canada,94511.0,10.0,17080.0,20.0,Online,
+,ORD0113,2024-05-28 00:00:00,May,2024,Customer_1138, mobile ,Samsung Tab S8,East,usa,63641.0,,18551.0,15.0,Card,Karan
+129.0,ORD0126,2024-07-03 00:00:00,July,2024,Customer_1027,Laptop,iPhone 14,West,India,62426.0,,,10.0,upi,Ravi
+130.0,ORD0072,2024-10-23 00:00:00,October,2024,Customer_1014,Tablet,Headphones,North,India,51516.0,,17391.0,,UPI,Karan
+131.0,ORD0035,2025-01-19 00:00:00,January,2025,Customer_1186, mobile ,Realme 11 Pro,,India,,5.0,-3774.0,20.0,upi,Ravi
+132.0,ORD0004,2024-12-19 00:00:00,December,2024,Customer_1192,Accessories,Realme 11 Pro,East,Canada,63390.0,3.0,,15.0,, Arun 
+133.0,ORD0006,2024-11-30 00:00:00,November,2024,Customer_1062,Laptop,iPhone 14, east ,UK,99874.0,,,,Cash,Meena
+134.0,ORD0002,2024-02-17 00:00:00,February,2024,Customer_1075,Tablet,iPhone 14,West,USA,,10.0,,5.0,,Ravi
+135.0,ORD0148,2024-04-19 00:00:00,April,2024,Customer_1097,Mobile,Samsung Tab S8,East,Canada,,2.0,19402.0,10.0,Card, Arun 
+136.0,ORD0120,2024/15/01,September,2024,Customer_1116,Laptop,Realme 11 Pro, east ,UK,,,,15.0,UPI, Arun 
+137.0,ORD0079,2024-01-16 00:00:00,January,2024,Customer_1178,Accessories,Headphones,West,USA,,,8400.0,,upi,Sneha
+138.0,ORD0001,2024-12-01 00:00:00,December,2024,Customer_1032,Mobile,HP Pavilion,East,USA,43599.0,4.0,-3467.0,10.0,Online,Sneha
+139.0,ORD0139,2024/15/01,September,2024,Customer_1111, mobile ,Keyboard, east ,UK,57783.0,,,5.0,, Arun 
+140.0,ORD0034,2024-01-30 00:00:00,January,2024,,Mobile,HP Pavilion,West,,,5.0,-1629.0,,Cash,Ravi
+141.0,ORD0142,2024-07-06 00:00:00,July,2024,Customer_1191,MOBILE,Keyboard, east ,USA,74479.0,,16014.0,5.0,Card,Karan
+142.0,ORD0088,2024-06-22 00:00:00,June,2024,Customer_1038,MOBILE,, east ,India,,,,,upi,Karan
+143.0,ORD0081,2025-01-03 00:00:00,January,2025,Customer_1007,Tablet,iPhone 14,West,Canada,,1.0,-3116.0,15.0,,
+144.0,ORD0014,2024-09-22 00:00:00,September,2024,Customer_1157,Mobile,Headphones, east ,USA,,10.0,336.0,,Card,Sneha
+145.0,ORD0112,2024-10-28 00:00:00,October,2024,Customer_1141, mobile ,Realme 11 Pro,North,Canada,,9.0,,20.0,,Meena
+146.0,ORD0085,2024-10-28 00:00:00,October,2024,Customer_1008, mobile ,HP Pavilion,North,,72352.0,,,15.0,Cash,Meena
+147.0,ORD0013,2024-08-20 00:00:00,August,2024,Customer_1128,MOBILE,Asus Vivobook,,,36325.0,3.0,,5.0,upi,Sneha
+,ORD0086,2024-08-21 00:00:00,August,2024,Customer_1121, mobile ,Headphones,West,UK,,,15267.0,5.0,Card,Ravi
+149.0,ORD0127,2024-03-18 00:00:00,March,2024,Customer_1128,Accessories,,East,,,9.0,,20.0,Card,Sneha
+150.0,ORD0092,2024-04-20 00:00:00,April,2024,Customer_1129,Mobile,HP Pavilion, east ,India,38576.0,,,20.0,UPI,
+151.0,ORD0080,2024-08-13 00:00:00,August,2024,Customer_1155,Laptop,iPhone 14, east ,USA,,,,10.0,Online, Arun 
+152.0,ORD0132,2024-02-06 00:00:00,February,2024,Customer_1156,Mobile,Keyboard,South,India,,7.0,-3607.0,,Online,
+153.0,ORD0037,2025-01-22 00:00:00,January,2025,Customer_1137,Laptop,,,,11150.0,5.0,8671.0,20.0,Cash, Arun 
+154.0,ORD0044,2024-04-12 00:00:00,April,2024,Customer_1005,Accessories,Realme 11 Pro,North,,60003.0,,1831.0,10.0,,Ravi
+155.0,ORD0030,2024-10-31 00:00:00,October,2024,Customer_1018,Accessories,Asus Vivobook,West,USA,,,5222.0,10.0,Online,
+156.0,ORD0111,2024-11-16 00:00:00,November,2024,Customer_1009,Mobile,Realme 11 Pro,,UK,,4.0,,10.0,Cash,Karan
+157.0,ORD0062,2024-12-13 00:00:00,December,2024,, mobile ,Headphones,West,India,,2.0,,,UPI,Karan
+158.0,ORD0147,2024-04-07 00:00:00,April,2024,Customer_1095,MOBILE,Samsung Tab S8,West,UK,42530.0,,13561.0,10.0,upi, Arun 
+159.0,ORD0143,2024-02-24 00:00:00,February,2024,Customer_1185,Mobile,iPhone 14,West,,,6.0,4757.0,10.0,Card, Arun 
+160.0,ORD0097,2024-11-22 00:00:00,November,2024,Customer_1147,Accessories,Keyboard,North,Canada,,,,10.0,upi, Arun 
+161.0,ORD0097,2024-11-21 00:00:00,November,,Customer_1099,Accessories,,South,India,,10.0,18024.0,15.0,Card,
+162.0,ORD0081,2024-08-12 00:00:00,,,Customer_1001,MOBILE,iPhone 14, east ,UK,,,7105.0,20.0,Card,Meena
+163.0,ORD0068,2024-09-04 00:00:00,September,2024,Customer_1035,Laptop,Headphones,West,Canada,73188.0,,,5.0,,Meena
+164.0,ORD0010,2024-02-28 00:00:00,February,2024,Customer_1179,MOBILE,HP Pavilion,,,90634.0,2.0,7229.0,5.0,Card, Arun 
+165.0,ORD0086,2024-07-26 00:00:00,July,2024,Customer_1150, mobile ,Samsung Tab S8,West,USA,,3.0,14431.0,10.0,Card,
+166.0,ORD0029,2024-06-09 00:00:00,June,2024,Customer_1193,Laptop,Headphones,West,Canada,,1.0,,,Card,Meena
+167.0,ORD0060,2024-10-31 00:00:00,October,2024,Customer_1059,Mobile,Keyboard, east ,India,,9.0,9702.0,15.0,,Sneha
+168.0,ORD0040,2024-11-14 00:00:00,November,2024,Customer_1154, mobile ,HP Pavilion, east ,UK,,8.0,,10.0,Cash,Ravi
+169.0,ORD0099,2024-04-19 00:00:00,April,2024,Customer_1189, mobile ,,South,Canada,,9.0,,,Card,Ravi
+170.0,ORD0065,2024-03-28 00:00:00,March,2024,Customer_1010,Accessories,Samsung Tab S8,South,Canada,51184.0,,11061.0,5.0,Card,Meena
+171.0,ORD0095,2024-09-27 00:00:00,September,2024,Customer_1142, mobile ,iPhone 14,East,Canada,13970.0,9.0,,15.0,UPI,Meena
+172.0,ORD0145,2024-06-11 00:00:00,,2024,Customer_1048, mobile ,Asus Vivobook,East,India,,2.0,19399.0,15.0,upi,Karan
+,ORD0082,2024-09-23 00:00:00,September,2024,Customer_1009,MOBILE,iPhone 14,East,USA,,,,20.0,Online,Sneha
+174.0,ORD0057,2024-09-01 00:00:00,September,2024,Customer_1057,Mobile,Samsung Tab S8,North,USA,,7.0,,20.0,UPI,Ravi
+175.0,ORD0120,2024-04-13 00:00:00,April,2024,Customer_1001,Accessories,HP Pavilion,,Canada,,,6424.0,,,Meena
+176.0,ORD0102,2024-01-06 00:00:00,January,2024,Customer_1103,MOBILE,iPhone 14,East,usa,,10.0,7238.0,10.0,upi,Meena
+177.0,ORD0108,2024-02-28 00:00:00,February,,Customer_1117,MOBILE,iPhone 14, east ,India,,1.0,13984.0,5.0,,Karan
+178.0,ORD0074,2024-11-15 00:00:00,November,2024,Customer_1096,Tablet,iPhone 14,West,usa,,6.0,,,Online,Karan
+179.0,ORD0011,2024-05-19 00:00:00,May,2024,Customer_1014,Laptop,Keyboard,North,USA,66057.0,,,,Cash,Ravi
+180.0,ORD0113,2024-08-11 00:00:00,August,2024,Customer_1192,MOBILE,Realme 11 Pro,East,UK,23964.0,7.0,19720.0,20.0,,Sneha
+181.0,ORD0037,2025-01-24 00:00:00,January,2025,Customer_1010,Tablet,,North,UK,,8.0,,5.0,upi,Karan
+182.0,ORD0040,2024-07-13 00:00:00,July,2024,Customer_1129,MOBILE,HP Pavilion,,UK,,6.0,,10.0,,Karan
+183.0,ORD0082,2024-08-24 00:00:00,August,2024,Customer_1199,Tablet,Samsung Tab S8,West,,,7.0,17085.0,5.0,upi,Meena
+184.0,ORD0065,2024-09-18 00:00:00,September,2024,Customer_1133,MOBILE,,,Canada,59205.0,6.0,,5.0,,Karan
+185.0,ORD0058,2024-06-13 00:00:00,June,2024,Customer_1058,Tablet,Keyboard,North,UK,21206.0,,-995.0,,UPI,Ravi
+186.0,ORD0015,2024-08-28 00:00:00,August,2024,Customer_1008,Laptop,Keyboard, east ,India,66072.0,8.0,2574.0,,Online,
+187.0,ORD0025,2024-12-30 00:00:00,December,2024,Customer_1130,MOBILE,,,usa,,1.0,14670.0,10.0,Online,Ravi
+188.0,ORD0140,2024-08-13 00:00:00,August,2024,Customer_1061, mobile ,iPhone 14, east ,UK,,,3733.0,,Cash,Meena
+189.0,ORD0046,2024-08-21 00:00:00,August,2024,Customer_1111,MOBILE,, east ,usa,96807.0,4.0,8474.0,5.0,,Sneha
+190.0,ORD0103,2024-11-12 00:00:00,November,2024,Customer_1168,MOBILE,Asus Vivobook,South,,,6.0,8288.0,5.0,,Ravi
+191.0,ORD0035,2024-12-08 00:00:00,December,,Customer_1072,Tablet,Realme 11 Pro,West,USA,22920.0,5.0,,20.0,Online,Karan
+192.0,ORD0013,2024-03-17 00:00:00,,2024,Customer_1077,Accessories,Samsung Tab S8,North,India,,,10284.0,,Card,Meena
+193.0,ORD0067,2024-02-24 00:00:00,February,2024,Customer_1140,Laptop,Samsung Tab S8,South,Canada,33302.0,4.0,,15.0,Online,Meena
+194.0,ORD0075,2024-08-17 00:00:00,August,2024,Customer_1090,Tablet,, east ,usa,51182.0,7.0,,5.0,Online, Arun 
+195.0,ORD0041,2025-01-21 00:00:00,January,2025,,Tablet,Asus Vivobook,,,,1.0,,5.0,Online,
+196.0,ORD0082,2024-10-06 00:00:00,October,2024,Customer_1081,MOBILE,HP Pavilion,East,UK,,4.0,,5.0,Online,Karan
+197.0,ORD0013,2024-12-09 00:00:00,December,2024,Customer_1180, mobile ,Samsung Tab S8,East,Canada,51644.0,4.0,,15.0,Card,Meena
+198.0,ORD0009,2024-10-22 00:00:00,October,2024,Customer_1135,MOBILE,HP Pavilion,,Canada,51709.0,,1684.0,20.0,UPI,Karan
+199.0,ORD0030,2024-04-23 00:00:00,April,2024,Customer_1053,Accessories,Samsung Tab S8,,Canada,,9.0,15416.0,10.0,Cash,Meena
+200.0,ORD0002,2024-06-03 00:00:00,June,2024,Customer_1160,Tablet,HP Pavilion,South,USA,,,11929.0,10.0,Card, Arun 
+96.0,ORD0001,2024-01-18 00:00:00,,2024,Customer_1105, mobile ,iPhone 14,West,Canada,,9.0,-393.0,20.0,upi,Karan
+16.0,ORD0146,2024-11-13 00:00:00,November,2024,Customer_1009,Laptop,iPhone 14,East,,75247.0,6.0,,5.0,upi,Meena
+31.0,ORD0039,2024-03-02 00:00:00,March,2024,Customer_1119,Tablet,Headphones,North,India,,8.0,,,UPI,Ravi
+159.0,ORD0143,2024-02-24 00:00:00,February,2024,Customer_1185,Mobile,iPhone 14,West,,,6.0,4757.0,10.0,Card, Arun 
+129.0,ORD0126,2024-07-03 00:00:00,July,2024,Customer_1027,Laptop,iPhone 14,West,India,62426.0,,,10.0,upi,Ravi
